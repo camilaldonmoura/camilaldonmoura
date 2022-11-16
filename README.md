@@ -65,5 +65,5 @@ I'm a Quality Assurance working at [Justa Soluções Financeiras](https://justa.
 
 <p align="left">
 <a href="https://www.linkedin.com/in/camilalnmoura/"><img src="https://img.shields.io/badge/-camilalnmoura-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="https://twitter.com/camilaluiza"><img src="https://img.shields.io/badge/-@camilaluiza-%231DA1F2?style=flat&logo=twitter&logoColor=white"/></a>
+<a href="https://twitter.com/luizacamilaaa"><img src="https://img.shields.io/badge/-@camilaluiza-%231DA1F2?style=flat&logo=twitter&logoColor=white"/></a>
 <a href="https://github.com/camilaldonmoura"><img src="https://img.shields.io/badge/-camilaldonmoura-%2312100E?style=flat&logo=Github&logoColor=white"/></a>
