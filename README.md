@@ -15,9 +15,11 @@ I'm a Quality Assurance working at [Justa Soluções Financeiras](https://justa.
 
   </h4>
   
-  
+  <br>
   
 ### Languages & Tools 🛠
+
+<br>
 
 ![Javascript](https://img.shields.io/badge/-Javascript-05122A?style=flat&logo=javascript)&nbsp;
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
@@ -38,12 +40,13 @@ I'm a Quality Assurance working at [Justa Soluções Financeiras](https://justa.
 ![Postman](https://img.shields.io/badge/-Postman-05122A?style=flat&logo=postman)&nbsp;
 ![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux&logoColor=white)&nbsp;
 
+<br>
 
 ### Analytics ⚙️
 
+<br>
 
-
- <div align="center">
+ <div align="right">
    
   <img height="150em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=camilaldonmoura&theme=radical"/> 
 <img height="150em" src="https://github-readme-stats.vercel.app/api?username=camilaldonmoura&show_icons=true&theme=radical&include_all_commits=true&count_private=false&hide_border=true"/> <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=camilaldonmoura&layout=compact&langs_count=7&theme=radical&hide_border=true"/> <img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=camilaldonmoura&theme=radical&hide_border=true"/>
