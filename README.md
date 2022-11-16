@@ -1,52 +1,66 @@
-<div>
+<!-- ![Profile Views](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=dittrichlucasd&repo=dittrichlucasd&countColorcountColor) -->
 
-  <h2>Prazer, eu sou a Cah 🙋‍♀️ </h2>   
+  <h1>Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30"/></h1> 
 <h4>
 <img align="right" width="80" src="https://media.giphy.com/media/0TtX2qqpxp3pIafzio/giphy.gif">
+  
    
-  - QA pela Justa Soluções Financeiras 🚀 
-  - Apaixonada por programação 💙
-  - Estudante de ADS 👩‍💻
-  - Contact 👇 
+  ### About me
+
+I'm a Quality Assurance working at [Justa Soluções Financeiras](https://justa.com.vc/).
+
+- :computer: I'm currently working with Cypress and some other stuffs like BDD and test plans.
+- :notebook: I'm currently learning K6 and testing fundamentals.
+- :video_game: In my free time, I like to read, practice sports, and learn something new.
+
   </h4>
-     </div>
- 
-<div> 
-   <a href = "mailto:moura.camilaluiza@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-   <a href="https://linkedin.com/in/camilalnmoura" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href="https://instagram.com/camilaluizaaa" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://discord.com/camilamoura#3307" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
- 
-</div>
- 
-<hr>
+  
+  
+  
+### Languages & Tools 🛠
+
+![Javascript](https://img.shields.io/badge/-Javascript-05122A?style=flat&logo=javascript)&nbsp;
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
+![Shell](https://img.shields.io/badge/Shell-05122A?style=flat&logo=gnu-bash&logoColor=white)&nbsp;
+![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)&nbsp;
+![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=html5)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3)&nbsp;
+![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)&nbsp;
+
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions%20-05122A?style=flat&logo=github-actions&logoColor=white)&nbsp;
+![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql&logoColor=white)&nbsp;
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql)&nbsp;
+![PostgreSQL](https://img.shields.io/badge/-GraphQL-05122A?style=flat&logo=GraphQL)&nbsp;
+
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+![Postman](https://img.shields.io/badge/-Postman-05122A?style=flat&logo=postman)&nbsp;
+![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux&logoColor=white)&nbsp;
+
+
+### Analytics ⚙️
+
+
+
  <div align="center">
    
   <img height="150em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=camilaldonmoura&theme=radical"/> 
 <img height="150em" src="https://github-readme-stats.vercel.app/api?username=camilaldonmoura&show_icons=true&theme=radical&include_all_commits=true&count_private=false&hide_border=true"/> <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=camilaldonmoura&layout=compact&langs_count=7&theme=radical&hide_border=true"/> <img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=camilaldonmoura&theme=radical&hide_border=true"/>
   
 </div>
-   <hr>
  
-   
-<div style="display: inline_block" align="center"><br>
   
-  
- 
- <img align="center" alt="Isabelly-Java" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="50" height="50"/> 
- <img align="center" alt="Isabelly-Js" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" width="40" height="30"/>
-  <img align="center" alt="Isabelly-MySQL" src="https://icongr.am/devicon/mysql-original.svg?size=128&color=currentColor" width="50" height="40"/>
-  <img align="center" alt="Isabelly-Postaman" src="https://user-images.githubusercontent.com/102272830/174455419-6fad00e8-c3d4-4eba-97bf-ba985b235111.png" width="30" height="30"/>
-  <img align="center" alt="Isabelly-VSCode" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"  width="40" height="30" />
-  <img align="center" alt="Isabelly-HTML" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40" height="30" />
-  <img align="center" alt="Isabelly-CSS" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40" height="30" />
-  <img align="center" alt="Isabelly-Angular" src="https://icongr.am/devicon/angularjs-original.svg?size=128&color=currentColor" width="45" height="35" />
-  <img align="center" alt="Isabelly-Docker" src="https://user-images.githubusercontent.com/102272830/174455357-54638f01-cc60-44a2-ba8b-ecbe4978cd88.png" width="50" height="40"/>
-  <img align="center" alt="Isabelly-Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" width="60" height="50"/>
-
   
 ##
  
-</div>
    
    ![snake gif](https://github.com/isabellylemos/isabellylemos/blob/output/github-contribution-grid-snake.svg)
+   
+  
+  ### Let's connect ? 🤝
+
+<p align="left">
+<a href="https://bit.ly/camilalnmoura"><img src="https://img.shields.io/badge/-camilalnmoura-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="https://bit.ly/camilaluiza"><img src="https://img.shields.io/badge/-@camilaluiza-%231DA1F2?style=flat&logo=twitter&logoColor=white"/></a>
+<a href="http://bit.ly/camilaldonmoura"><img src="https://img.shields.io/badge/-camilaldonmoura-%2312100E?style=flat&logo=Github&logoColor=white"/></a>
